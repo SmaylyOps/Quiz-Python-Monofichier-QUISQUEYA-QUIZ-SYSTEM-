@@ -1,0 +1,563 @@
+
+[
+  {
+    "id": 1,
+    "theme": "Histoire",
+    "niveau": "Facile",
+    "texte": "Quel pays a obtenu son indépendance en 1804 ?",
+    "options": ["Haïti", "Cuba", "Jamaïque", "Chili"],
+    "bonne_option": 0
+  },
+  {
+    "id": 2,
+    "theme": "Géographie",
+    "niveau": "Facile",
+    "texte": "Quelle est la capitale de la France ?",
+    "options": ["Lyon", "Paris", "Nice", "Marseille"],
+    "bonne_option": 1
+  },
+  {
+    "id": 3,
+    "theme": "Culture générale",
+    "niveau": "Facile",
+    "texte": "Combien de jours compte une année bissextile ?",
+    "options": ["365", "366", "364", "360"],
+    "bonne_option": 1
+  },
+  {
+    "id": 4,
+    "theme": "Histoire",
+    "niveau": "Moyen",
+    "texte": "Qui a proclamé l'indépendance d'Haïti en 1804 ?",
+    "options": ["Toussaint Louverture", "Dessalines", "Henri Christophe", "Pétion"],
+    "bonne_option": 1
+  },
+  {
+    "id": 5,
+    "theme": "Géographie",
+    "niveau": "Moyen",
+    "texte": "Quel est le plus long fleuve du monde selon la tradition ?",
+    "options": ["Nil", "Amazone", "Yangtsé", "Mississippi"],
+    "bonne_option": 0
+  },
+  {
+    "id": 6,
+    "theme": "Sciences",
+    "niveau": "Facile",
+    "texte": "Quelle est la planète la plus proche du Soleil ?",
+    "options": ["Vénus", "Mercure", "Terre", "Mars"],
+    "bonne_option": 1
+  },
+  {
+    "id": 7,
+    "theme": "Histoire",
+    "niveau": "Difficile",
+    "texte": "Quel traité a mis fin à la Première Guerre mondiale ?",
+    "options": ["Traité de Versailles", "Traité de Paris", "Traité de Tordesillas", "Traité de Yalta"],
+    "bonne_option": 0
+  },
+  {
+    "id": 8,
+    "theme": "Géographie",
+    "niveau": "Difficile",
+    "texte": "Quel est le plus haut sommet d’Afrique ?",
+    "options": ["Mont Kenya", "Kilimandjaro", "Toubkal", "Atlas"],
+    "bonne_option": 1
+  },
+  {
+    "id": 9,
+    "theme": "Culture générale",
+    "niveau": "Difficile",
+    "texte": "Qui est l’auteur de Les Misérables ?",
+    "options": ["Zola", "Hugo", "Balzac", "Flaubert"],
+    "bonne_option": 1
+  },
+  {
+    "id": 10,
+    "theme": "Histoire",
+    "niveau": "Facile",
+    "texte": "La Révolution française commence en quelle année ?",
+    "options": ["1789", "1750", "1815", "1799"],
+    "bonne_option": 0
+  },
+  {
+    "id": 11,
+    "theme": "Géographie",
+    "niveau": "Facile",
+    "texte": "Quel océan borde la côte est des États-Unis ?",
+    "options": ["Pacifique", "Indien", "Atlantique", "Arctique"],
+    "bonne_option": 2
+  },
+  {
+    "id": 12,
+    "theme": "Sciences",
+    "niveau": "Facile",
+    "texte": "Quel est le symbole chimique de l’eau ?",
+    "options": ["O2", "H2O", "CO2", "HO"],
+    "bonne_option": 1
+  },
+  {
+    "id": 13,
+    "theme": "Histoire",
+    "niveau": "Moyen",
+    "texte": "Quel régime politique existait à Rome avant l’Empire ?",
+    "options": ["Royaume", "République", "Province", "Dynastie"],
+    "bonne_option": 1
+  },
+  {
+    "id": 14,
+    "theme": "Géographie",
+    "niveau": "Moyen",
+    "texte": "Quelle chaîne de montagnes sépare l’Europe de l’Asie ?",
+    "options": ["Himalaya", "Andes", "Oural", "Alpes"],
+    "bonne_option": 2
+  },
+  {
+    "id": 15,
+    "theme": "Culture générale",
+    "niveau": "Facile",
+    "texte": "Combien de continents comptons-nous généralement ?",
+    "options": ["5", "6", "7", "8"],
+    "bonne_option": 2
+  },
+  {
+    "id": 16,
+    "theme": "Histoire",
+    "niveau": "Moyen",
+    "texte": "En quelle année Colomb arrive-t-il en Amérique ?",
+    "options": ["1492", "1500", "1485", "1512"],
+    "bonne_option": 0
+  },
+  {
+    "id": 17,
+    "theme": "Géographie",
+    "niveau": "Difficile",
+    "texte": "Quelle est la capitale de l’Australie ?",
+    "options": ["Sydney", "Melbourne", "Perth", "Canberra"],
+    "bonne_option": 3
+  },
+  {
+    "id": 18,
+    "theme": "Sciences",
+    "niveau": "Moyen",
+    "texte": "Quel instrument mesure la pression atmosphérique ?",
+    "options": ["Thermomètre", "Baromètre", "Hygromètre", "Anémomètre"],
+    "bonne_option": 1
+  },
+  {
+    "id": 19,
+    "theme": "Histoire",
+    "niveau": "Facile",
+    "texte": "Nelson Mandela était président de quel pays ?",
+    "options": ["Kenya", "Nigéria", "Afrique du Sud", "Ghana"],
+    "bonne_option": 2
+  },
+  {
+    "id": 20,
+    "theme": "Géographie",
+    "niveau": "Facile",
+    "texte": "Quel est le plus grand pays du monde ?",
+    "options": ["Chine", "États-Unis", "Canada", "Russie"],
+    "bonne_option": 3
+  },
+  {
+    "id": 21,
+    "theme": "Mathématiques",
+    "niveau": "Moyen",
+    "texte": "Quelle est la valeur de π arrondie à deux décimales ?",
+    "options": ["3.14", "3.10", "3.50", "3.00"],
+    "bonne_option": 0
+  },
+  {
+    "id": 22,
+    "theme": "Sciences",
+    "niveau": "Difficile",
+    "texte": "Quel mathématicien a démontré le théorème de Fermat ?",
+    "options": ["Fermat", "Newton", "Andrew Wiles", "Gauss"],
+    "bonne_option": 2
+  },
+  {
+    "id": 23,
+    "theme": "Histoire",
+    "niveau": "Moyen",
+    "texte": "Quel mur tombe en 1989 ?",
+    "options": ["Muraille de Chine", "Mur de Berlin", "Mur Nordique", "Mur d’Hadrien"],
+    "bonne_option": 1
+  },
+  {
+    "id": 24,
+    "theme": "Géographie",
+    "niveau": "Facile",
+    "texte": "Quelle mer borde le sud de la France ?",
+    "options": ["Baltique", "Méditerranée", "Rouge", "Noire"],
+    "bonne_option": 1
+  },
+  {
+    "id": 25,
+    "theme": "Culture générale",
+    "niveau": "Facile",
+    "texte": "Quelle langue est parlée au Brésil ?",
+    "options": ["Espagnol", "Portugais", "Français", "Anglais"],
+    "bonne_option": 1
+  },
+  {
+    "id": 26,
+    "theme": "Histoire",
+    "niveau": "Difficile",
+    "texte": "Quel roi a régné dans le Nord d’Haïti ?",
+    "options": ["Pétion", "Dessalines", "Christophe", "Toussaint"],
+    "bonne_option": 2
+  },
+  {
+    "id": 27,
+    "theme": "Géographie",
+    "niveau": "Difficile",
+    "texte": "Capitale du Japon ?",
+    "options": ["Kyoto", "Tokyo", "Osaka", "Sapporo"],
+    "bonne_option": 1
+  },
+  {
+    "id": 28,
+    "theme": "Histoire",
+    "niveau": "Facile",
+    "texte": "La Seconde Guerre mondiale a eu lieu entre…",
+    "options": ["1914-1918", "1939-1945", "1800-1810", "1861-1865"],
+    "bonne_option": 1
+  },
+  {
+    "id": 29,
+    "theme": "Géographie",
+    "niveau": "Facile",
+    "texte": "Où se trouve Cuba ?",
+    "options": ["Pacifique", "Antilles", "Afrique", "Asie"],
+    "bonne_option": 1
+  },
+  {
+    "id": 30,
+    "theme": "Culture générale",
+    "niveau": "Difficile",
+    "texte": "Langue la plus parlée au monde (locuteurs natifs) ?",
+    "options": ["Anglais", "Mandarin", "Espagnol", "Hindî"],
+    "bonne_option": 1
+  },
+  {
+    "id": 31,
+    "theme": "Informatique",
+    "niveau": "Facile",
+    "texte": "Que signifie CPU ?",
+    "options": ["Central Program Unit", "Central Processing Unit", "Computer Personal Unit", "Core Processing Utility"],
+    "bonne_option": 1
+  },
+  {
+    "id": 32,
+    "theme": "Informatique",
+    "niveau": "Facile",
+    "texte": "Quel langage est utilisé pour créer des pages web ?",
+    "options": ["Python", "HTML", "C++", "SQL"],
+    "bonne_option": 1
+  },
+  {
+    "id": 33,
+    "theme": "Informatique",
+    "niveau": "Moyen",
+    "texte": "Que signifie 'bug' dans un programme ?",
+    "options": ["Fonction", "Erreur", "Commentaire", "Méthode"],
+    "bonne_option": 1
+  },
+  {
+    "id": 34,
+    "theme": "Mathématiques",
+    "niveau": "Facile",
+    "texte": "5 × 6 = ?",
+    "options": ["30", "25", "20", "35"],
+    "bonne_option": 0
+  },
+  {
+    "id": 35,
+    "theme": "Mathématiques",
+    "niveau": "Moyen",
+    "texte": "La racine carrée de 144 ?",
+    "options": ["10", "12", "14", "16"],
+    "bonne_option": 1
+  },
+  {
+    "id": 36,
+    "theme": "Mathématiques",
+    "niveau": "Difficile",
+    "texte": "La dérivée de x² ?",
+    "options": ["x", "2x", "x²", "2"],
+    "bonne_option": 1
+  },
+  {
+    "id": 37,
+    "theme": "Sciences",
+    "niveau": "Facile",
+    "texte": "Quel est l’état liquide de l’eau solide ?",
+    "options": ["Glace", "Vapeur", "Eau", "Pluie"],
+    "bonne_option": 2
+  },
+  {
+    "id": 38,
+    "theme": "Sciences",
+    "niveau": "Moyen",
+    "texte": "Quel gaz est essentiel à la respiration humaine ?",
+    "options": ["Hélium", "CO2", "Oxygène", "Argon"],
+    "bonne_option": 2
+  },
+  {
+    "id": 39,
+    "theme": "Sciences",
+    "niveau": "Difficile",
+    "texte": "Qui a proposé la théorie de la relativité ?",
+    "options": ["Einstein", "Newton", "Planck", "Bohr"],
+    "bonne_option": 0
+  },
+  {
+    "id": 40,
+    "theme": "Histoire",
+    "niveau": "Facile",
+    "texte": "Qui était le premier empereur de France ?",
+    "options": ["Louis XVI", "Napoléon Bonaparte", "Charlemagne", "Henri IV"],
+    "bonne_option": 1
+  },
+  {
+    "id": 41,
+    "theme": "Géographie",
+    "niveau": "Facile",
+    "texte": "Quel pays est aussi appelé 'Pays du Soleil-Levant' ?",
+    "options": ["Chine", "Japon", "Corée", "Thaïlande"],
+    "bonne_option": 1
+  },
+  {
+    "id": 42,
+    "theme": "Géographie",
+    "niveau": "Moyen",
+    "texte": "Quel continent est le plus peuplé ?",
+    "options": ["Afrique", "Asie", "Europe", "Amérique"],
+    "bonne_option": 1
+  },
+  {
+    "id": 43,
+    "theme": "Culture générale",
+    "niveau": "Facile",
+    "texte": "Qui a peint la Joconde ?",
+    "options": ["Michel-Ange", "Leonard de Vinci", "Raphaël", "Picasso"],
+    "bonne_option": 1
+  },
+  {
+    "id": 44,
+    "theme": "Culture générale",
+    "niveau": "Moyen",
+    "texte": "Quel est le plus grand océan du monde ?",
+    "options": ["Atlantique", "Pacifique", "Arctique", "Indien"],
+    "bonne_option": 1
+  },
+  {
+    "id": 45,
+    "theme": "Culture générale",
+    "niveau": "Difficile",
+    "texte": "Qui a écrit l’Odyssée ?",
+    "options": ["Homère", "Sophocle", "Platon", "Euripide"],
+    "bonne_option": 0
+  },
+  {
+    "id": 46,
+    "theme": "Informatique",
+    "niveau": "Moyen",
+    "texte": "Quel protocole est utilisé pour naviguer sur le web ?",
+    "options": ["FTP", "SSH", "HTTP", "SMTP"],
+    "bonne_option": 2
+  },
+  {
+    "id": 47,
+    "theme": "Informatique",
+    "niveau": "Difficile",
+    "texte": "Quel est le système de numération utilisé par les ordinateurs ?",
+    "options": ["Hexadécimal", "Octal", "Binaire", "Décimal"],
+    "bonne_option": 2
+  },
+  {
+    "id": 48,
+    "theme": "Mathématiques",
+    "niveau": "Facile",
+    "texte": "9 + 10 = ?",
+    "options": ["19", "20", "21", "18"],
+    "bonne_option": 0
+  },
+  {
+    "id": 49,
+    "theme": "Mathématiques",
+    "niveau": "Difficile",
+    "texte": "Quel est l’intégrale de 1/x ?",
+    "options": ["x", "ln(x)", "1/x²", "x²/2"],
+    "bonne_option": 1
+  },
+  {
+    "id": 50,
+    "theme": "Sciences",
+    "niveau": "Facile",
+    "texte": "Le Soleil est…",
+    "options": ["Une planète", "Une étoile", "Une comète", "Un astéroïde"],
+    "bonne_option": 1
+  },
+  {
+    "id": 51,
+    "theme": "Géographie",
+    "niveau": "Facile",
+    "texte": "Quel pays abrite la pyramide de Khéops ?",
+    "options": ["Irak", "Égypte", "Soudan", "Maroc"],
+    "bonne_option": 1
+  },
+  {
+    "id": 52,
+    "theme": "Histoire",
+    "niveau": "Facile",
+    "texte": "Quel pays a colonisé Haïti en premier ?",
+    "options": ["France", "Espagne", "Angleterre", "Portugal"],
+    "bonne_option": 1
+  },
+  {
+    "id": 53,
+    "theme": "Histoire",
+    "niveau": "Moyen",
+    "texte": "Quel pays a vendu la Louisiane aux États-Unis ?",
+    "options": ["France", "Espagne", "Angleterre", "Portugal"],
+    "bonne_option": 0
+  },
+  {
+    "id": 54,
+    "theme": "Histoire",
+    "niveau": "Difficile",
+    "texte": "Qui était le premier président d’Haïti ?",
+    "options": ["Dessalines", "Alexandre Pétion", "Toussaint Louverture", "Boisrond Tonnerre"],
+    "bonne_option": 1
+  },
+  {
+    "id": 55,
+    "theme": "Géographie",
+    "niveau": "Moyen",
+    "texte": "Quel pays possède le plus de volcans actifs ?",
+    "options": ["Islande", "Indonésie", "États-Unis", "Italie"],
+    "bonne_option": 1
+  },
+  {
+    "id": 56,
+    "theme": "Géographie",
+    "niveau": "Difficile",
+    "texte": "Quelle est la capitale de la Nouvelle-Zélande ?",
+    "options": ["Auckland", "Wellington", "Christchurch", "Hamilton"],
+    "bonne_option": 1
+  },
+  {
+    "id": 57,
+    "theme": "Sciences",
+    "niveau": "Moyen",
+    "texte": "Quelle particule possède une charge négative ?",
+    "options": ["Proton", "Neutron", "Électron", "Photon"],
+    "bonne_option": 2
+  },
+  {
+    "id": 58,
+    "theme": "Sciences",
+    "niveau": "Difficile",
+    "texte": "Quelle est la formule de l’énergie d’un photon ?",
+    "options": ["E = mc²", "E = hν", "E = ma", "E = 1/2mv²"],
+    "bonne_option": 1
+  },
+  {
+    "id": 59,
+    "theme": "Mathématiques",
+    "niveau": "Moyen",
+    "texte": "Quel est le PGCD de 12 et 18 ?",
+    "options": ["6", "3", "2", "12"],
+    "bonne_option": 0
+  },
+  {
+    "id": 60,
+    "theme": "Culture générale",
+    "niveau": "Facile",
+    "texte": "Quel animal est surnommé le 'roi de la jungle' ?",
+    "options": ["Tigre", "Lion", "Guépard", "Panthère"],
+    "bonne_option": 1
+  },
+  {
+    "id": 61,
+    "theme": "Culture générale",
+    "niveau": "Moyen",
+    "texte": "Quel pays a créé le manga ?",
+    "options": ["Chine", "Corée", "Japon", "Thaïlande"],
+    "bonne_option": 2
+  },
+  {
+    "id": 62,
+    "theme": "Culture générale",
+    "niveau": "Difficile",
+    "texte": "Quel pays a inventé le papier ?",
+    "options": ["Égypte", "Chine", "Grèce", "Inde"],
+    "bonne_option": 1
+  },
+  {
+    "id": 63,
+    "theme": "Informatique",
+    "niveau": "Facile",
+    "texte": "Quel système d’exploitation est développé par Microsoft ?",
+    "options": ["Linux", "Windows", "MacOS", "Android"],
+    "bonne_option": 1
+  },
+  {
+    "id": 64,
+    "theme": "Informatique",
+    "niveau": "Moyen",
+    "texte": "SQL sert principalement à…",
+    "options": ["Créer des jeux", "Programmer des robots", "Gérer des bases de données", "Faire des sites web"],
+    "bonne_option": 2
+  },
+  {
+    "id": 65,
+    "theme": "Informatique",
+    "niveau": "Difficile",
+    "texte": "Qui est considéré comme le père de l’informatique ?",
+    "options": ["Babbage", "Turing", "Von Neumann", "Ada Lovelace"],
+    "bonne_option": 0
+  },
+  {
+    "id": 66,
+    "theme": "Géographie",
+    "niveau": "Moyen",
+    "texte": "La capitale du Canada est…",
+    "options": ["Toronto", "Vancouver", "Ottawa", "Calgary"],
+    "bonne_option": 2
+  },
+  {
+    "id": 67,
+    "theme": "Géographie",
+    "niveau": "Facile",
+    "texte": "Quel pays se trouve au sud d’Haïti ?",
+    "options": ["Brésil", "Cuba", "Jamaïque", "République dominicaine"],
+    "bonne_option": 3
+  },
+  {
+    "id": 68,
+    "theme": "Histoire",
+    "niveau": "Facile",
+    "texte": "Quel homme politique a dit 'I have a dream' ?",
+    "options": ["Nelson Mandela", "Martin Luther King", "Obama", "Malcolm X"],
+    "bonne_option": 1
+  },
+  {
+    "id": 69,
+    "theme": "Sciences",
+    "niveau": "Facile",
+    "texte": "La Terre tourne autour…",
+    "options": ["De la Lune", "Du Soleil", "De Mars", "Du centre galaxique"],
+    "bonne_option": 1
+  },
+  {
+    "id": 70,
+    "theme": "Culture générale",
+    "niveau": "Facile",
+    "texte": "Quel est le plus grand mammifère du monde ?",
+    "options": ["Éléphant", "Baleine bleue", "Girafe", "Orque"],
+    "bonne_option": 1
+  }
+]
